@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font: 16px/1.8 "Microsoft Yahei",verdana;
+}
+.section{
+	position: relative;
+	background-color: #fff;
+	overflow: hidden;
+	text-align: center;
+}
+/*第一屏样式设计*/
+.section1 {
+	background: url("images/23438965_1467039443163_800x600.jpg") no-repeat center;
+	background-size: cover;
+}
+ 
+ .section1 h1{
+ 	margin-top:5%;
+ 	color: #fff;
+ 	font-size: 50px;
+ 	font-weight: normal;
+ 	opacity: 1;
+ }
+ .section1 p{
+ 	padding-left: 200px;
+ 	margin-top: 800px auto 0;
+ 	color: #fff;
+ 	font-size: 18px;
+ 	width: 60%;
+ 	opacity: 0.5;
+ }
+ .section1 a{
+ 	display: block;
+ 	margin: 5% auto 0;
+ 	color: #ff9000;
+ 	font-size: 18px;
+ 	opacity: 0.5;
+ }
+ /*第二屏样式*/
+ .section2 {
+ 	background: url("images/BingWallpaper-2016-07-17.jpg") no-repeat center;
+ 	background-size: cover;
+
+ }
+ .section2 h1{
+ 	margin: 20px auto;
+ 	color: #333;
+ 	font-size: 50PX;
+ 	font-weight: normal;
+ }
+  .section2 p{
+ 	padding-left: 200px;
+ 	margin-top: 800px auto 0;
+ 	color: #fff;
+ 	font-size: 18px;
+ 	width: 60%;
+ 	opacity: 0.5;
+ }
+ .section2 a{
+ 	display: block;
+ 	margin: 400px auto 0;
+ 	color: #08c;
+ 	font-size: 18px;
+
+ }
+
+/*第三屏样式*/
+.section3 {
+	background: url("images/1405676335_QrVNEcJl.jpg") no-repeat center;
+	background-size: cover;
+}
+.section3 h1{
+	margin: 20px auto 20px -1500px;
+    color: #333;
+    font-size: 40px;
+    font-weight: normal;
+    width: 60%;
+}
+.section3 p{
+    margin: 20px auto 0 1500px;
+    color: #333;
+    font-size: 18px;
+    width: 60%;
+    /*margin-left: 1500px;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
